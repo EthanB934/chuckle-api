@@ -69,6 +69,16 @@
       "text": "No one nose...",
       "told": false,
       "id": 14
+    },
+    {
+      "text": " A new joke entry",
+      "told": false,
+      "id": 15
+    },
+    {
+      "text": " A second new joke entry",
+      "told": false,
+      "id": 16
     }
   ]
 }
