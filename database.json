@@ -27,7 +27,7 @@
     },
     {
       "text": "A new one liner",
-      "told": false,
+      "told": true,
       "id": 6
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "text": "Here is another one-liner",
-      "told": false,
+      "told": true,
       "id": 8
     },
     {
@@ -72,12 +72,12 @@
     },
     {
       "text": " A new joke entry",
-      "told": false,
+      "told": true,
       "id": 15
     },
     {
       "text": " A second new joke entry",
-      "told": false,
+      "told": true,
       "id": 16
     }
   ]
